@@ -1,0 +1,7 @@
+{
+  "version_code": 2,
+  "title": "New Update Available!",
+  "message": "We have added exciting new features and performance enhancements. Please update to continue.",
+  "image_url": "https://example.com/update_banner.png",
+  "update_link": "https://play.google.com/store/apps/details?id=your.package.name"
+}
